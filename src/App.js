@@ -38,7 +38,7 @@ class App extends Component {
             <div className='AboutCont'>
               <img src={Me} className='Selfie'  alt="a photo of myself"/>
               <p className="AboutMe">
-                Senior Full Stack Engineer eight with years of experience with React and a strong background in design. I love JavaScript for breakfast, lunch, and dinner. An ardent fan of all things Open Source. Let's build something great together!
+                Senior Full-Stack Engineer with strong UI skills and with 8+ years building SaaS applications from ideation to production with React, TypeScript, and modern web technologies. Expert in creating responsive component libraries, clients side state management, and design systems. Proven track record in performance optimization, leading feature development through all phases, and developing engineering teams. Passionate about delivering exceptional user experiences.
               </p>
             </div>
           </div>

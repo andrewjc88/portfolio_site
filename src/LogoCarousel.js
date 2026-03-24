@@ -12,7 +12,7 @@ class LogoCarousel extends React.Component {
 
     const images = inportImgs(require.context('./img/logos', false, /\.(gif|png|jpe?g|svg)$/));
 
-    let settings = {
+    const settings = {
       adaptiveHeight: true,
       variableHeight: true,
       autoplay: true,
